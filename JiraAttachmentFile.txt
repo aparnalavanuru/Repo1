@@ -1,0 +1,2 @@
+Hi 
+I am doing Jira add attachment test and attaching in the issue or bug through automation
