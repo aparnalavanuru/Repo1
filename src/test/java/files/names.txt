@@ -2,9 +2,7 @@ Alphabets
 a
 b
 c
-d
-e
-f
+
 numbers
 1
 2
@@ -12,3 +10,4 @@ numbers
 4
 5
 6
+
