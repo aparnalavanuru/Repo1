@@ -5,7 +5,7 @@ import io.restassured.path.json.JsonPath;
 public class ComplexJsonFile {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// TODO Auto-genaerated method stub
     JsonPath js=new JsonPath(payload.complexJson());
     int count= js.getInt("courses.size()");
     System.out.println(count);
@@ -32,6 +32,8 @@ public class ComplexJsonFile {
 		sum=sum + (price*copies);
 	  }
 	Assert.assertEquals(sum, totAmount);
+	//Repo1
+	System.out.println("Added lines by Repo1");
 	}
 
 }
