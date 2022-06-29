@@ -34,6 +34,8 @@ public class ComplexJsonFile {
 	Assert.assertEquals(sum, totAmount);
 	//Repo1
 	System.out.println("Added lines by Repo1");
+	//Demo
+	System.out.println("Added chnages in develop branch by DemoProject");
 	}
 
 }
