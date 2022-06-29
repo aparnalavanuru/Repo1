@@ -15,5 +15,8 @@ public String getPrice() {
 public void setPrice(String price) {
 	this.price = price;
 }
-
+//Repo1
+public String getName() {
+	return "Aparna";
+}
 }
